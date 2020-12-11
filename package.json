@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redux": "^4.0.5"
+    "logger": "0.0.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6"
   }
 }
