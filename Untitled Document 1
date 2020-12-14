@@ -1,2 +1,4 @@
 npm install redux
 npm install redux-logger
+npm install axios    (user to request to API to end point)
+npm install redux-thunk (defines async action creators)
